@@ -14,7 +14,7 @@ terraform {
 #configure the azure provider
 provider "azurerm" {
   features {}
-  subscription_id = "049b13a7-2fe7-4559-9eef-2be52342b0a2"
+  subscription_id = "subscription-id"
 }
 
 # Configure the AWS Provider

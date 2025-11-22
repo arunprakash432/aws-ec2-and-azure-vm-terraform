@@ -1,4 +1,3 @@
-
 ---
 
 ```markdown
@@ -19,10 +18,12 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 
 ---
 
+---
 ## 📁 Project Structure
 
+---
 ```
-
+---
 .
 ├── main.tf        # Cloud providers + resources
 ├── variables.tf   # (Optional) Customizable inputs
@@ -30,7 +31,7 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 └── README.md
 
 ````
-
+---
 ---
 
 ## 🔧 Requirements
