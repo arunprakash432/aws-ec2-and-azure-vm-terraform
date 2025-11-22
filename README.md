@@ -22,6 +22,7 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 
 ---
 ```
+```
 ---
 
 ---
@@ -39,7 +40,8 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 ````
 ---
 ---
-
+```
+```
 ## 🔧 Requirements
 
 | Tool | Version | Description |
@@ -49,12 +51,14 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 | Azure CLI | Optional | Used for Azure login |
 
 ---
-
+```
+```
 ## 🛠 Setup & Usage
 
 ### 1️⃣ Install Required Tools
 Verify Terraform is installed:
-
+```
+```
 ```bash
 terraform -version
 ````
