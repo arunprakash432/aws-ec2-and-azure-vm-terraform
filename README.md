@@ -4,7 +4,7 @@
 ```markdown
 ---
 
-```## 🌐 Multi-Cloud Infrastructure with Terraform
+## 🌐 Multi-Cloud Infrastructure with Terraform
 
 Provision resources across multiple cloud providers — such as **AWS EC2** and **Azure Virtual Machines** — using a single unified Infrastructure-as-Code (IaC) workflow powered by **Terraform**.
 ```
