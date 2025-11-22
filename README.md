@@ -23,7 +23,6 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 
 ## 📁 Project Structure
 
-```
 ---
 .
 ├── main.tf        # Cloud providers + resources
