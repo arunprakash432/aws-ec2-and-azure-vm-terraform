@@ -30,8 +30,6 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 ├── variables.tf   # (Optional) Customizable inputs
 ├── outputs.tf     # (Optional) Deployment outputs
 └── README.md
-````
-````
 
 ---
 
