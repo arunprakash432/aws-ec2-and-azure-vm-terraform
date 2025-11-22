@@ -3,14 +3,13 @@
 
 ```markdown
 ---
-```
+
 ## 🌐 Multi-Cloud Infrastructure with Terraform
 
 Provision resources across multiple cloud providers — such as **AWS EC2** and **Azure Virtual Machines** — using a single unified Infrastructure-as-Code (IaC) workflow powered by **Terraform**.
 
 ---
----
-
+```
 ## 🚀 Features
 
 - Deploy infrastructure in **multiple cloud platforms**
@@ -19,18 +18,13 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
   - 🟦 Azure Virtual Machines
 - Fully repeatable and version-controlled deployments
 - Single-command lifecycle management (`apply`, `plan`, `destroy`)
-
----
-```
 ```
 ---
-
----
+```
 ## 📁 Project Structure
-
----
 ```
----
+```
+
 .
 ├── main.tf        # Cloud providers + resources
 ├── variables.tf   # (Optional) Customizable inputs
@@ -38,9 +32,8 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 └── README.md
 
 ````
+
 ---
----
-```
 ```
 ## 🔧 Requirements
 
@@ -49,12 +42,13 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 | Terraform | ≥ 1.0 | Required IaC tool |
 | AWS CLI | Optional | Used for AWS authentication |
 | Azure CLI | Optional | Used for Azure login |
-
+```
 ---
 
-``` ## 🛠 Setup & Usage
+## 🛠 Setup & Usage
 
 ### 1️⃣ Install Required Tools
+
 Verify Terraform is installed:
 
 ```bash
@@ -108,7 +102,6 @@ This removes all infrastructure managed by Terraform.
 
 ## 📷 Output / Results
 
-
 ### ✅ AWS EC2 Instance Created
 
 ![AWS Output](./images/aws-output.png)
@@ -141,8 +134,6 @@ This removes all infrastructure managed by Terraform.
 
 ---
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -150,7 +141,7 @@ If you'd like to improve the configuration or documentation, open a pull request
 
 ---
 
----
-
 ### ⭐ If this project helped you, please consider giving it a star!
 
+```
+```
