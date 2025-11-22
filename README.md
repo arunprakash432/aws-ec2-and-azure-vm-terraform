@@ -9,8 +9,8 @@
 Provision resources across multiple cloud providers — such as **AWS EC2** and **Azure Virtual Machines** — using a single unified Infrastructure-as-Code (IaC) workflow powered by **Terraform**.
 
 ---
-```
-```## 🚀 Features
+
+## 🚀 Features
 
 - Deploy infrastructure in **multiple cloud platforms**
 - Unified configuration manages:
@@ -18,7 +18,7 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
   - 🟦 Azure Virtual Machines
 - Fully repeatable and version-controlled deployments
 - Single-command lifecycle management (`apply`, `plan`, `destroy`)
-```
+
 ---
 
 ```## 📁 Project Structure
