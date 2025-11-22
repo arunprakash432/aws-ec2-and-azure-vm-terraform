@@ -21,7 +21,7 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 
 ---
 
-```## 📁 Project Structure
+## 📁 Project Structure
 
 ```
 ---
@@ -34,7 +34,7 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 ````
 
 ---
-```
+
 ## 🔧 Requirements
 
 | Tool | Version | Description |
@@ -42,7 +42,7 @@ Provision resources across multiple cloud providers — such as **AWS EC2** and 
 | Terraform | ≥ 1.0 | Required IaC tool |
 | AWS CLI | Optional | Used for AWS authentication |
 | Azure CLI | Optional | Used for Azure login |
-```
+
 ---
 
 ## 🛠 Setup & Usage
